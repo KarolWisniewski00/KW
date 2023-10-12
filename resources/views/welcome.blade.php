@@ -8,11 +8,11 @@
             <span class="text-rose-500">Sklepy i strony WWW</span>
         </h1>
         <div class="grid grid-cols-2 gap-4 my-4">
-            <a href="tel:+48451670344" class="rounded-3xl bg-white shadow h-24 flex flex-col items-center justify-center text-xl font-extrabold my-2">
-                <i class="fa-solid fa-phone-volume"></i>Zadzwoń
+            <a href="tel:451670344" class="rounded-3xl bg-white shadow h-24 flex flex-col items-center justify-center text-xl font-extrabold my-2">
+                <i class="fa-solid fa-phone-volume"></i>Zadzwoń 451 670 344
             </a>
             <a href="mailto:karol.wisniewski2901@gmail.com" class="rounded-3xl bg-white shadow h-24 flex flex-col items-center justify-center text-xl font-extrabold my-2">
-                <i class="fa-solid fa-envelope"></i>Napisz
+                <i class="fa-solid fa-envelope"></i>Napisz karol.wisniewski2901@gmail.com
             </a>
         </div>
         <h1 class="text-4xl font-bold leadi sm:text-5xl px-8 py-4">Portfolio
