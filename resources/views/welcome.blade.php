@@ -15,6 +15,8 @@
                 <i class="fa-solid fa-envelope"></i>Napisz
             </a>
         </div>
+        <h1 class="text-4xl font-bold leadi sm:text-5xl px-8 py-4">Portfolio
+        </h1>
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 my-4">
             <a href="https://baldinini-shop.pl/" class="h-full flex flex-col items-center justify-center">
                 <div class="relative h-full w-full">
